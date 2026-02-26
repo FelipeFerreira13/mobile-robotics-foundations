@@ -10,12 +10,17 @@ This repository includes organized examples and explanations on topics such as:
 - 🌐 LiDAR Processing  
 - 👁️ Robot Vision  
 
+## 🛠️ Development Environment
+
+All implementations in this repository are developed using **C++** as the primary programming language.
+
+The robotic platform used for development and testing is based on a **Studica Robotics kit**, providing a practical hardware environment for experimentation and validation of mobile robotics concepts.
+
 ## 🎯 Objective
 
 The goal of this repository is to provide clear, hands-on references for students and beginners learning the foundations of mobile robotics.
 
 Each topic is organized in its own folder, making it easy to navigate and progressively build knowledge.
-
 
 ## 👨‍💻 Target Audience
 
