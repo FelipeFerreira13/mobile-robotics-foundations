@@ -34,6 +34,10 @@ Each topic is organized in its own folder, making it easy to navigate and progre
 This repository contains personal implementations and study projects.  
 Feel free to explore, fork, and use the material for learning purposes.
 
+
+Youtube: https://youtube.com/@felipeferreira-jt5ci?si=kQxToaWlWOVDDxHx
+Linkedin: https://www.linkedin.com/in/felipeferreira13/
+
 ---
 
 *Learning robotics through practice.*
